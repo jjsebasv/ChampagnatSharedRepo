@@ -3,6 +3,6 @@
 #include <stdio.c>
 
 int main() {
-	printf("Hello World")
-	return 's'	
+	printf("Hello World");
+	return 0;
 }
